@@ -1,3 +1,8 @@
 Hello SAP developer !!!
 Please type SAP.sap.
+<<<<<<< HEAD
 SAPAPA in SAP 
+=======
+SAPAPA in SAP …
+This is File2
+>>>>>>> refs/remotes/origin/master
